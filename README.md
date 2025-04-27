@@ -1,6 +1,4 @@
-Sure! Here’s a more professional and polished version of your README for **HerCycleConnect**:
 
----
 
 # HerCycleConnect
 
