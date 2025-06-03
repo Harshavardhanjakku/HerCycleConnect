@@ -8,17 +8,29 @@ Say goodbye to fragmented care—HerCycle+ Connect empowers women to take contro
 
 # 📋 Table of Contents
 
-- [About the App](#-about-the-app)
-- [Key Features](#-key-features)
-- [Screenshots](#-screenshots)
-- [Getting Started](#-getting-started)
-- [Technology Stack](#-technology-stack)
-- [Development Challenges](#-development-challenges)
-- [Future Roadmap](#-future-roadmap)
-- [Contributing](#-contributing)
-- [Team](#-team)
-- [Demo](#-demo)
-- [License](#-license)
+- [🌸 HerCycle+ Connect](#-hercycle-connect)
+- [📋 Table of Contents](#-table-of-contents)
+- [🌟 About the App](#-about-the-app)
+- [✅ Key Features](#-key-features)
+  - [Core Features](#core-features)
+  - [Bonus Features](#bonus-features)
+  - [📸 Screenshots](#-screenshots)
+    - [Logo](#logo)
+    - [App Screens](#app-screens)
+  - [|  |  |  |  |](#--------)
+- [🚀 Getting Started](#-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation Steps](#installation-steps)
+    - [Configure Firebase](#configure-firebase)
+    - [Set Up Assets](#set-up-assets)
+    - [Run the App](#run-the-app)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [🧺 Development Challenges](#-development-challenges)
+- [🌍 Future Roadmap](#-future-roadmap)
+- [🤝 Contributing](#-contributing)
+- [👥 Team](#-team)
+- [📜 License](#-license)
+- [🌟 Empowering women, one cycle at a time. 🌟](#-empowering-women-one-cycle-at-a-time-)
 
 ---
 
@@ -215,9 +227,9 @@ See `CONTRIBUTING.md` for more details.
 
 | Name | Email | GitHub Profile |
 |:-----|:------|:---------------|
+| Jakku Harshavardhan | jakkuharshavardhan2004@gmail.com | [Harshavardhanjakku](https://github.com/Harshavardhanjakku) |
 | Macharla Rohith | macharlarohith111@gmail.com | [RohithMacharla11](https://github.com/RohithMacharla11) |
 | Vangala Shiva Chaithanya | vangalashivachaithanya@gmail.com | [Shiva-vangala](https://github.com/Shiva-vangala) |
-| Jakku Harshavardhan | jakkuharshavardhan2004@gmail.com | [Harshavardhanjakku](https://github.com/Harshavardhanjakku) |
 | Mulagundla Srinitha | mulagundlasrinitha@gmail.com | [MulagundlaSrinitha](https://github.com/MulagundlaSrinitha) |
 
 
